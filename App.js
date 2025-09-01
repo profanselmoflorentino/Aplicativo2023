@@ -9,7 +9,7 @@ function Telaprincipal({ navigation }){
   <View>
       <Button title="Pagina 1" onPress={() => navigation.navigate('pagina1')} />
       <Button title="Pagina 2" onPress={() => navigation.navigate('pagina2')} />
-      <Button title="Pagina 3" onPress={() => navigation.navigate('pagina3')} />
+      <Button title="Pagina 3" onPress={() => navigation.navigate('pagina4')} />
 
       
  </View>
